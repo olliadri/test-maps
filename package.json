@@ -54,8 +54,8 @@
       "cordova-plugin-ionic-webview": {},
       "cordova-plugin-ionic-keyboard": {},
       "cordova-plugin-googlemaps": {
-        "API_KEY_FOR_ANDROID": "AIzaSyDxzcYfQ0M23wVNP8eSPc-DWDnLJa9cPqo",
-        "API_KEY_FOR_IOS": "AIzaSyDxzcYfQ0M23wVNP8eSPc-DWDnLJa9cPqo",
+        "API_KEY_FOR_ANDROID": "...",
+        "API_KEY_FOR_IOS": "...",
         "PLAY_SERVICES_VERSION": "15.0.1",
         "ANDROID_SUPPORT_V4_VERSION": "26.1.0"
       },
