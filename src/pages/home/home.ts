@@ -31,6 +31,6 @@ export class HomePage {
           camera : { target: {lat: resp.coords.latitude, lng: resp.coords.longitude}, zoom: 17 }
         });
       console.log(this.map);
-    })
+    }).catch((err) => { console.log(err); })
   }
 }
